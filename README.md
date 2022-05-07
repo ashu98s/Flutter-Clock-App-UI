@@ -1,4 +1,4 @@
-## Analog Clock Light & Dark Theme - Flutter UI :::
+## Analog Clock Light & Dark Theme - Flutter UI
  
 I've designed a nice clean analog clock app UI by using flutter. The clock supports both the Dark and Light theme. If you want to learn how to use both Light and Dark theme then it helps a lot.
 
